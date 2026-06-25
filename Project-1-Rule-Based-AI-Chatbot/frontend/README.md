@@ -176,6 +176,7 @@ This project was developed as part of the **DecodeLabs AI Internship Program**.
 
 GitHub: https://github.com/anasmurtaza
 
+Linkedin: www.linkedin.com/in/m-anas-murtaza
 ---
 
 ## ⭐ If you like this project
