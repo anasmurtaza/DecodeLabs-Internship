@@ -172,7 +172,7 @@ This project was developed as part of the **DecodeLabs AI Internship Program**.
 
 ## 👨‍💻 Developer
 
-**Anas Murtaza**
+**Muhammad Anas Murtaza**
 
 GitHub: https://github.com/anasmurtaza
 
