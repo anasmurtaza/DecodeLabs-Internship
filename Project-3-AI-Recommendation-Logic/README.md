@@ -132,7 +132,7 @@ Example:
 
 ## 👨‍💻 Developer
 
-**Anas Murtaza**
+**Muhammad Anas Murtaza**
 
 GitHub: https://github.com/anasmurtaza
 
