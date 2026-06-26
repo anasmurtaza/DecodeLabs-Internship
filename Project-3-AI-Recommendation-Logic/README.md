@@ -136,6 +136,7 @@ Example:
 
 GitHub: https://github.com/anasmurtaza
 
+Linkedin: https://www.linkedin.com/in/m-anas-murtaza
 ---
 
 ## 📌 Internship
